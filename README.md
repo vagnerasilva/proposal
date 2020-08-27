@@ -1,4 +1,4 @@
-# proposal
+
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
 Vagner A Silva  
